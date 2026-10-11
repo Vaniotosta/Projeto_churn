@@ -1,0 +1,4 @@
+modelo,auc,auc_precisao_recall,precisao_top20,recall_top20,lift_top20
+Regressão logística,0.761,0.449,0.435,0.507,2.536
+Random Forest,0.758,0.438,0.418,0.487,2.434
+Gradient Boosting (sklearn),0.749,0.434,0.415,0.484,2.42

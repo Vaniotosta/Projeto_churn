@@ -1,0 +1,33 @@
+variavel,descricao,tipo
+id_cliente,Identificador fictício do cliente,texto
+data_referencia,Data em que as variáveis foram medidas,data
+idade,Idade em anos,número
+genero,F ou M,categoria
+estado_civil,Estado civil,categoria
+escolaridade,Nível de escolaridade (tem valores faltantes),categoria
+uf,Estado do cliente,categoria
+renda_mensal,Renda mensal em R$ (tem valores faltantes),número
+score_credito,Score de crédito de 300 a 1000,número
+categoria_cartao,"Básico, Gold, Platinum ou Black",categoria
+limite_credito,Limite do cartão em R$,número
+anuidade_mensal,Anuidade mensal em R$ (0 = isento),número
+tempo_relacionamento_meses,Meses desde que virou cliente,número
+qtd_produtos,Quantidade de produtos com o banco (1 a 6),número
+debito_automatico,1 = tem contas no débito automático,0/1
+usa_app,1 = usa o aplicativo do banco,0/1
+programa_pontos,1 = participa do programa de pontos,0/1
+resgates_pontos_12m,Resgates de pontos nos últimos 12 meses,número
+gasto_medio_mensal_6m,Gasto médio mensal no cartão (6 meses) em R$,número
+qtd_transacoes_mensal,Média de compras por mês,número
+ticket_medio,Valor médio por compra em R$,número
+utilizacao_limite,% do limite usado,número
+variacao_gasto_3m_vs_6m,Variação do gasto dos últimos 3 meses contra os 6 meses (-0.30 = queda de 30%),número
+meses_inativos_12m,Meses sem nenhuma compra nos últimos 12,número
+compras_parceladas_6m,Compras parceladas nos últimos 6 meses,número
+pct_gasto_internacional,% do gasto feito no exterior,número
+saldo_rotativo,Saldo em rotativo do cartão em R$,número
+atrasos_12m,Faturas pagas com atraso nos últimos 12 meses,número
+contatos_sac_12m,Contatos com o SAC nos últimos 12 meses,número
+reclamacoes_12m,Reclamações registradas nos últimos 12 meses,número
+nps,Nota de 0 a 10 na pesquisa de satisfação (tem valores faltantes),número
+churn,VARIÁVEL ALVO: 1 = cancelou o cartão em até 90 dias após a data de referência,0/1

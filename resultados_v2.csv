@@ -1,0 +1,5 @@
+modelo,auc_validacao_cruzada,auc_teste,auc_precisao_recall_teste,precisao_top20,recall_top20,lift_top20
+Regressão logística (etapa 3),0.775,0.761,0.449,0.435,0.507,2.536
+Regressão logística ajustada,0.776,0.766,0.46,0.445,0.519,2.595
+Random Forest ajustado,0.764,0.755,0.443,0.412,0.481,2.405
+Gradient Boosting ajustado,0.772,0.761,0.443,0.428,0.499,2.493

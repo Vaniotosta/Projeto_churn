@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+
+# Segredos
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Configuracoes locais
+.claude/
+Thumbs.db
+.DS_Store
+CLAUDE.md
