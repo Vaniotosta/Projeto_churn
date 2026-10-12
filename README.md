@@ -1,5 +1,5 @@
 # Previsão de churn em cartão de crédito
-Link do APP: projetochurn-7wq6q3bg6yxvfxqtgvxonu
+Link do APP: https://projetochurn-7wq6q3bg6yxvfxqtgvxonu.streamlit.app/**
 
 Projeto de ciência de dados que prevê quais clientes de cartão de crédito têm maior chance de cancelar o cartão nos próximos 90 dias e mostra quanto dinheiro uma campanha de retenção pode gerar.
 
